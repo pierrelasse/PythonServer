@@ -1,1 +1,0 @@
-logger.info("The epic cool and nice plugin ?wddwwd was loaded!")
