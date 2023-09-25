@@ -1,5 +1,5 @@
 # PythonServer
-Tottaly not inspired from Minecraft &amp; FiveM.
+Totally not inspired from Minecraft &amp; FiveM.
 
 <hl>
   
